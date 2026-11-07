@@ -1,0 +1,5 @@
+# Compile artifacts
+*.o
+*.hi
+
+dist-newstyle/
